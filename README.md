@@ -20,4 +20,10 @@ This mini project is designed to predict the presence or absence of cardiovascul
 - Jupyter Notebook
 - Matplotlib / Seaborn (for data visualization)
 
+  ### 🔃 Clone the Repository
+
+```bash
+git clone https://github.com/Azam-aa/Mini-Project-CARDIOVASCULAR-DISEASE-PREDICTION-USING-MACHINE-LEARNING.git
+cd Mini-Project-CARDIOVASCULAR-DISEASE-PREDICTION-USING-MACHINE-LEARNING-
+
   
