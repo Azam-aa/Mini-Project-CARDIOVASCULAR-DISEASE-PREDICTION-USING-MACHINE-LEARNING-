@@ -9,3 +9,15 @@ This mini project is designed to predict the presence or absence of cardiovascul
 - Accepts user input for key health parameters.
 - Displays prediction result in a simplified manner: **Disease Present** or **No Disease**.
 - Dataset sourced from Kaggle.
+
+  ## 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Tkinter (for GUI)
+- Jupyter Notebook
+- Matplotlib / Seaborn (for data visualization)
+
+  
