@@ -5,7 +5,7 @@ This mini project is designed to predict the presence or absence of cardiovascul
 
 ## 🔍 Project Features
 
-- Clean and interactive GUI built using Python's Tkinter.
+- Clean and interactive GUI built using Python's Tkinter..
 - Trained machine learning model for accurate predictions.
 - Accepts user input for key health parameters.
 - Displays prediction result in a simplified manner: **Disease Present** or **No Disease**.
