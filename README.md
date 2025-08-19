@@ -11,6 +11,7 @@ This mini project is designed to predict the presence or absence of cardiovascul
 - Displays prediction result in a simplified manner: **Disease Present** or **No Disease**.
 - Dataset sourced from Kaggle.
 
+
   ## 🛠 Technologies Used
 
 - Python
