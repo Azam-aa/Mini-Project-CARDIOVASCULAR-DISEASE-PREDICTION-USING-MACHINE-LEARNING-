@@ -15,6 +15,7 @@ This mini project is designed to predict the presence or absence of cardiovascul
 
 <hr />
 
+
   ## 🛠 Technologies Used
 
 - Python
