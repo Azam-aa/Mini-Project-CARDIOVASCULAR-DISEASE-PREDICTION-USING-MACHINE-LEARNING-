@@ -28,10 +28,8 @@ This mini project is designed to predict the presence or absence of cardiovascul
 
   ### 🔃 Clone the Repository
 
-```bash
+# Clone the repository
 git clone https://github.com/Azam-aa/Mini-Project-CARDIOVASCULAR-DISEASE-PREDICTION-USING-MACHINE-LEARNING.git
 
-```bash
-cd Mini-Project-CARDIOVASCULAR-DISEASE-PREDICTION-USING-MACHINE-LEARNING-
-
-  
+# Navigate into the project directory
+cd Mini-Project-CARDIOVASCULAR-DISEASE-PREDICTION-USING-MACHINE-LEARNING
